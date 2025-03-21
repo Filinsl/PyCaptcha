@@ -19,6 +19,7 @@ To install dependencies, run the following command:
 
 ```bash
 pip install pillow
+```
 
 ## Usage
 
