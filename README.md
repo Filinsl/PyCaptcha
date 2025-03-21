@@ -1,7 +1,7 @@
 # PyCaptcha
 
 `PyCaptcha` is a Python utility for generating CAPTCHA images with random alphanumeric text and adding visual noise (lines, dots, symbols) to make it more difficult for bots to recognize. The utility uses the `PIL` (Pillow) library for image creation and processing.
-
+![Captcha Example](https://i.ibb.co/hxxkHbDP/captcha14.png)
 ## Features
 - Generates CAPTCHA images with random text consisting of letters and digits.
 - Adds visual noise:
