@@ -19,3 +19,13 @@ To install dependencies, run the following command:
 
 ```bash
 pip install pillow
+
+## Usage
+
+To generate a CAPTCHA image and save it, follow the steps below.
+
+1. **Run the Script**  
+   Simply run the Python script `main.py` to generate a CAPTCHA image.
+
+   ```bash
+   python main.py
